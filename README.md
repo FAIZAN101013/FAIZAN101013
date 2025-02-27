@@ -1,5 +1,14 @@
-## Hi there 👋
-
+<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">My name is Mohammed Faizan Patel and I'm a Full Stack Developer & Freelancer, from Pune, Maharashtra.</p>
+<h2 align="left">About me</h2>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning React Native<br>🎯 Goals: To become proficient in React Native and build scalable applications<br>🎲 Fun fact: I represented my college football team in intercollegiate tournaments.</p>
+<h2 align="left">I code with</h2>
+<div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /> </div>
+<h2 align="left">Projects</h2>
+Handyman Web App – A platform that connects users with skilled workers like plumbers, electricians, and carpenters. Built using Django, JavaScript, HTML, and CSS.
+E-Commerce Website – A user-friendly shopping website with authentication, shopping cart, and checkout. Built with PHP, JavaScript, MySQL, Bootstrap, and XAMPP.
+CoinGate UI Clone – A recreated UI for CoinGate, integrating real-time cryptocurrency exchange APIs using React.js.
+<h2 align="left">Let's Connect!</h2> <p align="left">📧 Email: [faizan.m.patel10@gmail.com](mailto:faizan.m.patel10@gmail.com)<br>🔗 LinkedIn: [linkedin.com/in/mohammed-faizan-patel-6939821b5](http://www.linkedin.com/in/mohammed-faizan-patel-6939821b5)<br>🐙 GitHub: [github.com/FAIZAN101013](https://github.com/FAIZAN101013)</p>
 <!--
 **FAIZAN101013/FAIZAN101013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
