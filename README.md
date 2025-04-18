@@ -1,39 +1,52 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Mohammed Faizan Patel, and I'm a Full Stack Developer & Freelancer from Pune, Maharashtra.</p>
+<p align="left">My name is Mohammed Faizan Patel, and I'm a Frontend Developer & Freelancer from Pune, Maharashtra.</p>
 
 <h2 align="left">About Me</h2>
 <p align="left">
-✨ Creating bugs since 2020<br>
-📚 I'm currently learning Full Stack Development<br>
-🎯 Goals: To become proficient in React and build scalable web applications<br>
-🎲 Fun fact: I represented my college football team in intercollegiate tournaments.
+✨ Breaking things to learn since 2020<br>
+📚 Currently diving deep into Full Stack Development<br>
+🎯 Goal: To master React and build scalable, impactful web applications<br>
+⚽ Fun fact: I proudly represented my college football team in intercollegiate tournaments.
 </p>
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">Skills & Technologies</h2>
+<p align="left">Here are the technologies I work with to bring ideas to life:</p>
+
 <div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" /> 
-  <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" /> 
-  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> 
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://img.icons8.com/ios-filled/50/ui-design.png" height="40" alt="UI/UX" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
 </div>
 
 <h2 align="left">Let's Connect!</h2>
 <p align="left">
 📧 Email: faizan.m.patel10@gmail.com <br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-faizan-patel-6939821b5" target="_blank">mohammed-faizan-patel</a>
-🔗 Portfolio: <a href="https://faziansportfolio.netlify.app/" target="_blank">mohammed-faizan-patel</a>
-  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-faizan-patel-6939821b5" target="_blank">mohammed-faizan-patel</a><br>
+🌐 Portfolio: <a href="https://faziansportfolio.netlify.app/" target="_blank">faziansportfolio.netlify.app</a>
 </p>
+
 
 <!--
 **FAIZAN101013/FAIZAN101013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
