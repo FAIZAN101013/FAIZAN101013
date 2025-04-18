@@ -33,7 +33,8 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-ui-ux-web-design-flat-flat-juicy-fish.png" height="40" alt="UI/UX" />
+  <img src="https://img.icons8.com/fluency/48/design.png" height="40" alt="UI/UX" />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
