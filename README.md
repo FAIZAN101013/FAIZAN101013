@@ -3,7 +3,7 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-✨ Breaking things to learn since 2020<br>
+✨ Breaking things to learn since 2024<br>
 📚 Currently diving deep into Full Stack Development<br>
 🎯 Goal: To master React and build scalable, impactful web applications<br>
 ⚽ Fun fact: I proudly represented my college football team in intercollegiate tournaments.
