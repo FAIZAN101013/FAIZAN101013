@@ -45,7 +45,7 @@
 <h2 align="left">Let's Connect!</h2>
 <p align="left">
 📧 Email: faizan.m.patel10@gmail.com <br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-faizan-patel-6939821b5" target="_blank">mohammed-faizan-patel</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-faizan-p-6939821b5/" target="_blank">mohammed-faizan-patel</a><br>
 🌐 Portfolio: <a href="https://faziansportfolio.netlify.app/" target="_blank">faziansportfolio.netlify.app</a>
 </p>
 
