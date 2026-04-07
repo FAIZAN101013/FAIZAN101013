@@ -1,66 +1,53 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Mohammed Faizan Patel, and I'm a Frontend Developer & Freelancer from Pune, Maharashtra.</p>
+<h1 align="left">Hey 👋 I'm Mohammed Faizan Patel</h1>
 
-<h2 align="left">About Me</h2>
 <p align="left">
-✨ Breaking things to learn since 2024<br>
-📚 Currently diving deep into Full Stack Development<br>
-🎯 Goal: To master React and build scalable, impactful web applications<br>
-⚽ Fun fact: I proudly represented my college football team in intercollegiate tournaments.
+  <b>Frontend Developer & Freelancer</b> based in Pune, Maharashtra.<br/>
+  Building clean, scalable web interfaces — one component at a time.
 </p>
 
-<h2 align="left">Skills & Technologies</h2>
-<p align="left">Here are the technologies I work with to bring ideas to life:</p>
+---
 
-<div align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="SASS" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://img.icons8.com/fluency/48/design.png" height="40" alt="UI/UX" />
+## About Me
 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="40" alt="GitHub (light)" />
-</div>
+I'm a frontend developer passionate about turning ideas into impactful web applications. Currently expanding into full-stack development with a deep focus on React, Node.js, and MongoDB.
 
+- 🚀 &nbsp;Started building in **2024** — learning fast by shipping real projects
+- 📚 &nbsp;Currently diving deep into **Full Stack Development**
+- 🎯 &nbsp;Goal: Master React and build scalable, impactful web applications
+- ⚽ &nbsp;Proudly represented my college football team in intercollegiate tournaments
 
-<h2 align="left">Let's Connect!</h2>
-<p align="left">
-📧 Email: faizan.m.patel10@gmail.com <br>
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-faizan-p-6939821b5/" target="_blank">mohammed-faizan-patel</a><br>
-🌐 Portfolio: <a href="https://faziansportfolio.netlify.app/" target="_blank">faziansportfolio.netlify.app</a>
+---
+
+## Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## Let's Connect
+
+<p>
+  📧 &nbsp;<a href="mailto:faizan.m.patel10@gmail.com">faizan.m.patel10@gmail.com</a><br/>
+  🔗 &nbsp;<a href="https://www.linkedin.com/in/mohammed-faizan-p-6939821b5/">LinkedIn — mohammed-faizan-patel</a><br/>
+  🌐 &nbsp;<a href="https://faziansportfolio.netlify.app/">faziansportfolio.netlify.app</a>
 </p>
-
-
-<!--
-**FAIZAN101013/FAIZAN101013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
