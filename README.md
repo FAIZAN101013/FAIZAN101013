@@ -1,5 +1,4 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
 <p align="left">My name is Mohammed Faizan Patel, and I'm a Frontend Developer & Freelancer from Pune, Maharashtra.</p>
 
 <h2 align="left">About Me</h2>
@@ -13,12 +12,12 @@
 <h2 align="left">Skills & Technologies</h2>
 <p align="left">Here are the technologies I work with to bring ideas to life:</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" /> 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" /> 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React.js" />
   <img width="12" />
@@ -35,15 +34,33 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/design.png" height="40" alt="UI/UX" />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
-  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="40" alt="GitHub" />
+  <img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" height="40" alt="GitHub (light)" />
 </div>
+
 
 <h2 align="left">Let's Connect!</h2>
 <p align="left">
-📧 Email: <a href="mailto:faizan.m.patel10@gmail.com">faizan.m.patel10@gmail.com</a><br>
+📧 Email: faizan.m.patel10@gmail.com <br>
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/mohammed-faizan-p-6939821b5/" target="_blank">mohammed-faizan-patel</a><br>
 🌐 Portfolio: <a href="https://faziansportfolio.netlify.app/" target="_blank">faziansportfolio.netlify.app</a>
 </p>
+
+
+<!--
+**FAIZAN101013/FAIZAN101013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
